@@ -2,15 +2,22 @@
 
 <!--
 **PratyushJaiswal730/pratyushJaiswal730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Pratyush Jaiswal 👋
+🎓 B.Tech Computer Science Engineering Student at VIT Bhopal University
+📅 1st Year
 
-Here are some ideas to get you started:
+💡 About Me
+I am a passionate and curious student currently learning programming and web development. I aim to build strong technical skills and work on real-world projects to grow as a developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Skills
+Python (Basics)
+HTML, CSS, JavaScript (Frontend Development),DSA beginner
+Data Entry Operations
+🎯 Goals
+Improve coding and problem-solving skills
+Build and upload projects on GitHub
+Gain practical experience through internships
+Become a succesful tech expert
+📫 Connect With Me
+GitHub: https://github.com/PratyushJaiswal730
+LinkedIn:
