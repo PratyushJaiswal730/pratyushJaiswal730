@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-<!--
-**PratyushJaiswal730/pratyushJaiswal730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Hi, I'm Pratyush Jaiswal 👋
+I'm Pratyush Jaiswal 👋
 🎓 B.Tech Computer Science Engineering Student at VIT Bhopal University
 📅 1st Year
 
